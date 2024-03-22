@@ -1,0 +1,5 @@
+PYTHON_EXEC_GLOBALS={}
+PYTHON_EXEC_LOCALS={}
+
+def exec_code(code):
+    exec(code, PYTHON_EXEC_GLOBALS, PYTHON_EXEC_LOCALS)
